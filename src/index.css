@@ -1,0 +1,16 @@
+*{
+  margin : 0;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+body{
+  background-color: beige;
+  font-size: 16px;
+}
+h1{
+  font-size: 1.2rem;
+}
+h2{
+  font-size: 1.1rem;
+}
